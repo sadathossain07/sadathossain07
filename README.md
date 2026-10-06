@@ -1,8 +1,4 @@
-## 👋Hello, I am MD Sadat Hossain Econ. 👋
-
-
-
-Here are some ideas to get you started:
+## 👋Hello, I am MD Sadat Hossain Econ. 
 
 - 🔭 I’m currently working on Python project...
 - 🌱 I’m currently learning Python...
@@ -13,7 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I love Progaming...
 
- 
 
 
 ## 🌐 Socials:
